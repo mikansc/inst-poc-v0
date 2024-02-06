@@ -1,0 +1,12 @@
+{
+  "name": "poc-v0",
+  "version": "1.0.0",
+  "description": "POC da Instyga",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "author": "",
+  "license": "ISC"
+}
